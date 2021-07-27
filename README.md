@@ -1,4 +1,5 @@
-#Julia shaders con three.js
+#Julia shaders con three.js#
+
 Para poder ejecutar el código se recomienda utilizar VSCode con el plugin Live Server
 el cuál otorga un pequeño servidor local para ejecutar javascript localmente.
 
